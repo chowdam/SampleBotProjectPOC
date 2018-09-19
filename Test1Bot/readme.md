@@ -26,8 +26,12 @@ You can find this file under: Test1Bot solution folder -> Test1Bot fodler -> Tes
 3. For testing you can type below questions:
 
 What's cooking?
+
 Who is lakshmi?
+
 What is psal?
+
+
 
 
 # Additional Learning resources
