@@ -38,7 +38,7 @@ namespace Test1Bot
                         await context.SendActivity($"For today we have the following options: {string.Join(", ", Specialties)}");
                         break;
                     case "PSAL_Team":
-                        await context.SendActivity($"Member of PSAL Team, OfCourse!");
+                        await context.SendActivity($"Member of PSAL Team, OfCourse!");//get more info from API/services/database
                         break;
                     default:
                         await context.SendActivity("Sorry, I didn't understand that.");
